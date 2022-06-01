@@ -39,8 +39,8 @@ h1{
   padding: 10px;
   color:white;
   text-align: center;
-   margin-top: 0px;
-  font-family: 'Tiro Bangla', serif;
+   margin-top: 1px;
+  font-family: 'Tiro Bangla';
 }
 button{
   cursor: pointer;
